@@ -30,7 +30,7 @@
 1. KML対応のGISソフト（Google Earth, カシミール3Dなど）にドラッグ＆ドロップすると自動的に表示がなされます．     
 
 
-#### 引用・参考サイト  
+## 引用・参考サイト  
 
 1. 谷謙二: 時系列地形図閲覧サイト「今昔マップ on the web」  
  http://ktgis.net/kjmapw/index.html  
