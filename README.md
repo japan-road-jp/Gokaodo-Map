@@ -1,11 +1,8 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# 五街道のKMLデータセット
-
-
-
+# GISソフトに表示可能な五街道のKML,GPXデータセット
 
 ## 概　 要    
-本データセットは五街道（東海道，中山道，日光街道，奥州街道，甲州街道）のKML（Keyhole Markup Language） フォーマットです．ダウンロードしたzipファイルを解凍すると各街道ごとのkmlファイルが取り出せます．GISソフトやアプリへインポートしますとkmlファイルのポイントデータが線として表示されます．  
+本データセットは五街道（東海道，中山道，日光街道，奥州街道，甲州街道）のGPX(GPS eXchange Format)とKML（Keyhole Markup Language） フォーマットが収録されています．ダウンロードしたzipファイルを解凍すると各街道ごとのgpxファイルおよびkmlファイルが取り出せます．GISソフトやアプリへドラッグ・アンド・ドロップもしくはインポートしますとトラックファイル（ポイントデータ）が線として表示されます．  
 
 なお五街道は部分的に重複もありますので，単独区間についてをkmlでの対象としています．
 * 東海道（日本橋ー三条大橋；　ただし宮ー桑名間は海路のためkmlファイルは海路を挟んで二分割）
@@ -16,9 +13,8 @@
 
 <img src="img/Go-kaido.jpg" width="1000px">
 
- 
 ## データセット概要     
-+ **データ形式**：　KML（Keyhole Markup Language）  
++ **データ形式**：　GPX（GPS eXchange Format），KML（Keyhole Markup Language）  
 + **測地系**：　世界測地系  
 + **データ構成**：　「data」フォルダの配下にある「route」に五街道のデータが格納されております．
   + 「route」：　五街道の起点・終点間のトラックポイント（緯度，経度，標高）をつないだ点群
