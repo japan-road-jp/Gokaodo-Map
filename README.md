@@ -1,5 +1,5 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# GISソフトに表示可能な五街道のKML,GPXデータセット
+# 五街道GPX（KML)：　GISソフトに表示可能な五街道のGPX，KMLデータセット
 
 ## 概　 要    
 本データセットには五街道（東海道，中山道，日光街道，奥州街道，甲州街道）のGPX(GPS eXchange Format)とKML（Keyhole Markup Language） フォーマットが収録されています．GISソフトやアプリへドラッグ・アンド・ドロップもしくはインポートしますとトラックファイル（ポイントデータ）が線として表示されます．  
