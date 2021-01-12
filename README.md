@@ -13,7 +13,7 @@
 * 奥州街道（宇都宮ー白河追分；　日本橋ー宇都宮は日光街道）
 * 甲州街道（日本橋ー下諏訪追分）
 
-<img src="img/Go-kaido.jpg" width="1000px">
+<img src="img/Go-kaido.jpg" width="750px">
 
 ## データセット概要     
 + **データ形式**：　GPX（GPS eXchange Format），KML（Keyhole Markup Language）  
