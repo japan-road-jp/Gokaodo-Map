@@ -1,5 +1,5 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# 五街道GPX（KML)：　GISソフトに表示可能な五街道のGPX，KMLデータセット
+# 五街道GPX および五街道KML：　GISソフトに表示可能な五街道の数値データとしてのGPX，KMLデータセット
 
 ## 概　 要    
 地理情報システム（GIS：Geographic Information System）で表示や再利用ができる五街道（東海道，中山道，日光街道，奥州街道，甲州街道）の数値データは，2020年現在，インターネット上で検索する限りは見当たりません．  
