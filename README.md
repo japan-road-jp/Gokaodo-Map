@@ -39,7 +39,6 @@ https://note.com/smatsu/n/n4cf861420729
 
 <img src="img/Super-Chikei.png" width="250px">
 
-<iframe class="note-embed" src="https://note.com/embed/notes/n4cf861420729" style="border: 0; display: block; max-width: 99%; width: 494px; padding: 0px; margin: 10px 0px; position: static; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
 
 ## 引用・参考サイト  
 
