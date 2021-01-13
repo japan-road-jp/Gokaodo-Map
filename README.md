@@ -30,7 +30,14 @@ Figure. gpxデータをカシミール3Dで出力・可視化した図
 
 1. ダウンロードは画面右上の「code」のボタンを押すとzip形式で本リポジトリ内のドキュメントが全てダウンロードされます．
 1. zipを解凍すると「data」フォルダ内のGPX，KMLファイルを取得できます．
-1. GPX，KML対応のGISソフト（Google Earth, カシミール3Dなど）にドラッグ＆ドロップすると自動的に表示がなされます．     
+1. GPX，KML対応のGISソフト（Google Earth, カシミール3Dなど）にドラッグ＆ドロップすると自動的に表示がなされます．
+
+## 利用事例
+
+五街道のトラックデータ（gpx，kml）を『スーパー地形』へ転送してナビ設定
+https://note.com/smatsu/n/n4cf861420729
+
+<img src="img/Super-Chikei.png" width="750px">
 
 
 ## 引用・参考サイト  
