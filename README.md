@@ -37,7 +37,7 @@ Figure. gpxデータをカシミール3Dで出力・可視化した図
 五街道のトラックデータ（gpx，kml）を『スーパー地形』へ転送してナビ設定  
 https://note.com/smatsu/n/n4cf861420729
 
-<img src="img/Super-Chikei.png" width="100px">
+<img src="img/Super-Chikei.png" width="250px">
 
 
 ## 引用・参考サイト  
