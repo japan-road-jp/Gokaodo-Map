@@ -1,5 +1,5 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# 五街道shape，五街道GPX，五街道KML：　GISに表示可能な五街道の数値データ・データセット
+# 五街道SHP，五街道GPX，五街道KML：　GISに表示可能な五街道の数値データ・データセット
 
 ## 概　 要    
 地理情報システム（GIS：Geographic Information System）で表示や再利用ができる五街道（東海道，中山道，日光道中，奥州道中，甲州道中）の数値データは，2020年現在，インターネット上で検索する限りは見当たりません．  
@@ -19,7 +19,7 @@ Figure. gpxデータをカシミール3Dで出力・可視化した図
 
 
 ## データセット概要     
-+ **データ形式**：　ESLI Shape，GPX（GPS eXchange Format），KML（Keyhole Markup Language）  
++ **データ形式**：　SHP(ESLI Shape），GPX（GPS eXchange Format），KML（Keyhole Markup Language）  
 + **測地系**：　世界測地系
 + **種別**:　ライン（線データ）
 + **データ構成**：　「data」フォルダの配下にある「shape」，「gpx」および「kml」に，それぞれのデータフォーマットの五街道のデータが格納されています．
