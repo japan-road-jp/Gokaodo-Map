@@ -9129,30 +9129,6 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
  <ele>953.000000</ele>
  <time>2021-01-11T07:20:53Z</time>
 </trkpt>
-<trkpt lat="35.909766" lon="138.228134">
- <ele>961.000000</ele>
- <time>2021-01-11T07:21:03Z</time>
-</trkpt>
-<trkpt lat="35.910736" lon="138.227286">
- <ele>963.000000</ele>
- <time>2021-01-11T07:21:13Z</time>
-</trkpt>
-<trkpt lat="35.911354" lon="138.226675">
- <ele>963.000000</ele>
- <time>2021-01-11T07:21:23Z</time>
-</trkpt>
-<trkpt lat="35.912152" lon="138.225495">
- <ele>963.000000</ele>
- <time>2021-01-11T07:21:33Z</time>
-</trkpt>
-<trkpt lat="35.912693" lon="138.225248">
- <ele>964.000000</ele>
- <time>2021-01-11T07:21:43Z</time>
-</trkpt>
-<trkpt lat="35.913680" lon="138.224904">
- <ele>966.000000</ele>
- <time>2021-01-11T07:21:53Z</time>
-</trkpt>
 <trkpt lat="35.909359" lon="138.225868">
  <ele>954.000000</ele>
  <time>2021-01-11T07:22:03Z</time>
