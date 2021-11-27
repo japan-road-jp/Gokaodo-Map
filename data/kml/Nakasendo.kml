@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
 <Document>
 <Folder>
 <name>Tracks</name>
@@ -7,8 +7,8 @@
 <name>中山道</name>
 <Style>
 <LineStyle>
- <color>ff404080</color>
- <width>3</width>
+<color>ff404080</color>
+<width>3</width>
 </LineStyle>
 <IconStyle>
 <Icon>
@@ -17,9 +17,9 @@
 </IconStyle>
 </Style>
 <ExtendedData>
-	<Data name="LineStyle">
-		<value>1</value>
-	</Data>
+<Data name="LineStyle">
+<value>1</value>
+</Data>
 </ExtendedData>
 <gx:Track>
 <gx:coord>139.774365 35.684094 4.000000</gx:coord>
