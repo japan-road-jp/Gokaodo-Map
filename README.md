@@ -63,6 +63,7 @@ https://note.com/smatsu/n/n4cf861420729
 japan.road.jp@gmail.com （国道愛好家　松波宛）
   
 ## 履歴
+2021.11.24　kmlの断片化修正   
 2021.04.17　甲州街道データ修正  
 2021.01.16　shape形式登録  
 2021.01.11　公開  
