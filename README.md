@@ -60,7 +60,7 @@ https://note.com/smatsu/n/n4cf861420729
 
 ## コンタクト先
 比定の誤りが認められる場合，商用・営利目的での利用は「コンタクト先」でご連絡をいただければ幸いです．  
-japan.road.jp@gmail.com （国道愛好家　松波宛）
+japan.road.jp@gmail.com （国道愛好家　くにみち宛）
   
 ## 履歴
 2021.11.24　kmlの断片化修正   
