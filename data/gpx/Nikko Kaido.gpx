@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx
 version="1.1"
-creator="Kashmir3D 9.370 - http://www.kashmir3d.com"
+creator="Kashmir3D 9.380 - http://www.kashmir3d.com"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns="http://www.topografix.com/GPX/1/1"
 xmlns:kashmir3d="http://www.kashmir3d.com/namespace/kashmir3d"
@@ -1321,71 +1321,67 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
  <ele>10.000000</ele>
  <time>2020-07-23T23:30:19Z</time>
 </trkpt>
-<trkpt lat="36.105592" lon="139.722278">
+<trkpt lat="36.105558" lon="139.722975">
  <ele>10.000000</ele>
  <time>2020-07-23T23:30:24Z</time>
 </trkpt>
-<trkpt lat="36.107790" lon="139.723050">
+<trkpt lat="36.105610" lon="139.723233">
  <ele>10.000000</ele>
  <time>2020-07-23T23:30:34Z</time>
 </trkpt>
-<trkpt lat="36.109283" lon="139.722814">
+<trkpt lat="36.109232" lon="139.723683">
  <ele>10.000000</ele>
  <time>2020-07-23T23:30:44Z</time>
 </trkpt>
-<trkpt lat="36.110056" lon="139.722771">
+<trkpt lat="36.110759" lon="139.723748">
  <ele>10.000000</ele>
  <time>2020-07-23T23:30:49Z</time>
 </trkpt>
-<trkpt lat="36.111171" lon="139.722042">
+<trkpt lat="36.111395" lon="139.723705">
  <ele>10.000000</ele>
  <time>2020-07-23T23:30:54Z</time>
 </trkpt>
-<trkpt lat="36.111549" lon="139.722878">
- <ele>10.000000</ele>
- <time>2020-07-23T23:31:04Z</time>
-</trkpt>
-<trkpt lat="36.111515" lon="139.723265">
+<trkpt lat="36.111892" lon="139.723748">
  <ele>10.000000</ele>
  <time>2020-07-23T23:31:06Z</time>
 </trkpt>
-<trkpt lat="36.113146" lon="139.723436">
+<trkpt lat="36.113437" lon="139.723683">
  <ele>10.000000</ele>
  <time>2020-07-23T23:31:09Z</time>
 </trkpt>
-<trkpt lat="36.114776" lon="139.722364">
- <ele>11.000000</ele>
+<trkpt lat="36.114278" lon="139.723361">
+ <ele>10.000000</ele>
  <time>2020-07-23T23:31:14Z</time>
 </trkpt>
-<trkpt lat="36.115944" lon="139.720883">
- <ele>10.000000</ele>
+<trkpt lat="36.115326" lon="139.722546">
+ <ele>11.000000</ele>
  <time>2020-07-23T23:31:24Z</time>
 </trkpt>
 <trkpt lat="36.116592" lon="139.721040">
  <ele>10.000000</ele>
  <time>2020-07-23T23:31:34Z</time>
 </trkpt>
-<trkpt lat="36.118038" lon="139.719789">
+<trkpt lat="36.117763" lon="139.719563">
  <ele>10.000000</ele>
  <time>2020-07-23T23:31:44Z</time>
 </trkpt>
-<trkpt lat="36.119308" lon="139.719080">
+<trkpt lat="36.119274" lon="139.718726">
  <ele>10.000000</ele>
  <time>2020-07-23T23:31:54Z</time>
 </trkpt>
-<trkpt lat="36.120510" lon="139.718158">
+<trkpt lat="36.120390" lon="139.717825">
  <ele>10.000000</ele>
  <time>2020-07-23T23:32:04Z</time>
 </trkpt>
-<trkpt lat="36.121986" lon="139.716463">
+<trkpt lat="36.121763" lon="139.716259">
  <ele>10.000000</ele>
  <time>2020-07-23T23:32:14Z</time>
 </trkpt>
-<trkpt lat="36.122827" lon="139.716613">
+<trkpt lat="36.122862" lon="139.714971">
  <ele>10.000000</ele>
  <time>2020-07-23T23:32:24Z</time>
 </trkpt>
-<trkpt lat="36.124784" lon="139.714660">
+<trkpt lat="36.123634" lon="139.714220">
  <ele>10.000000</ele>
  <time>2020-07-23T23:32:29Z</time>
 </trkpt>
@@ -1417,23 +1413,23 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
  <ele>11.000000</ele>
  <time>2020-07-23T23:33:34Z</time>
 </trkpt>
-<trkpt lat="36.130291" lon="139.708251">
+<trkpt lat="36.130277" lon="139.708148">
  <ele>11.000000</ele>
  <time>2020-07-23T23:33:44Z</time>
 </trkpt>
-<trkpt lat="36.131359" lon="139.708180">
+<trkpt lat="36.131908" lon="139.706989">
  <ele>11.000000</ele>
  <time>2020-07-23T23:33:54Z</time>
 </trkpt>
-<trkpt lat="36.132397" lon="139.707601">
+<trkpt lat="36.132320" lon="139.706796">
  <ele>11.000000</ele>
  <time>2020-07-23T23:34:04Z</time>
 </trkpt>
-<trkpt lat="36.133264" lon="139.707139">
+<trkpt lat="36.132990" lon="139.706646">
  <ele>11.000000</ele>
  <time>2020-07-23T23:34:14Z</time>
 </trkpt>
-<trkpt lat="36.134466" lon="139.706678">
+<trkpt lat="36.133728" lon="139.706023">
  <ele>11.000000</ele>
  <time>2020-07-23T23:34:24Z</time>
 </trkpt>
@@ -1453,13 +1449,17 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
  <ele>12.000000</ele>
  <time>2020-07-23T23:35:04Z</time>
 </trkpt>
-<trkpt lat="36.142307" lon="139.702135">
+<trkpt lat="36.142997" lon="139.701689">
  <ele>12.000000</ele>
  <time>2020-07-23T23:35:14Z</time>
 </trkpt>
-<trkpt lat="36.143080" lon="139.703863">
- <ele>13.000000</ele>
+<trkpt lat="36.142860" lon="139.702311">
+ <ele>12.000000</ele>
  <time>2020-07-23T23:35:24Z</time>
+</trkpt>
+<trkpt lat="36.142585" lon="139.702826">
+ <ele>12.000000</ele>
+ <time>2020-06-30T19:17:28Z</time>
 </trkpt>
 <trkpt lat="36.143673" lon="139.705478">
  <ele>13.000000</ele>
@@ -1469,8 +1469,8 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
  <ele>11.000000</ele>
  <time>2020-06-07T14:59:42Z</time>
 </trkpt>
-<trkpt lat="36.146241" lon="139.708923">
- <ele>11.000000</ele>
+<trkpt lat="36.147083" lon="139.708341">
+ <ele>12.000000</ele>
  <time>2020-06-07T14:59:52Z</time>
 </trkpt>
 <trkpt lat="36.148126" lon="139.709035">
@@ -1981,11 +1981,11 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
  <ele>48.000000</ele>
  <time>2020-06-07T15:20:49Z</time>
 </trkpt>
-<trkpt lat="36.364698" lon="139.833761">
+<trkpt lat="36.365934" lon="139.833396">
  <ele>48.000000</ele>
  <time>2020-06-07T15:20:52Z</time>
 </trkpt>
-<trkpt lat="36.370432" lon="139.837216">
+<trkpt lat="36.369522" lon="139.835134">
  <ele>49.000000</ele>
  <time>2020-06-07T15:20:54Z</time>
 </trkpt>
@@ -2057,7 +2057,7 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
  <ele>62.000000</ele>
  <time>2020-06-07T15:23:12Z</time>
 </trkpt>
-<trkpt lat="36.421809" lon="139.862560">
+<trkpt lat="36.421810" lon="139.862386">
  <ele>64.000000</ele>
  <time>2020-06-07T15:23:22Z</time>
 </trkpt>
@@ -2209,15 +2209,19 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
  <ele>90.000000</ele>
  <time>2020-06-07T15:29:32Z</time>
 </trkpt>
-<trkpt lat="36.499108" lon="139.874061">
+<trkpt lat="36.498457" lon="139.873501">
  <ele>90.000000</ele>
  <time>2020-06-07T15:29:42Z</time>
 </trkpt>
-<trkpt lat="36.501614" lon="139.874555">
+<trkpt lat="36.501581" lon="139.874187">
  <ele>91.000000</ele>
  <time>2020-06-07T15:29:52Z</time>
 </trkpt>
-<trkpt lat="36.503588" lon="139.874941">
+<trkpt lat="36.504362" lon="139.874767">
+ <ele>91.000000</ele>
+ <time>2020-06-07T15:29:57Z</time>
+</trkpt>
+<trkpt lat="36.504345" lon="139.875067">
  <ele>91.000000</ele>
  <time>2020-06-07T15:30:02Z</time>
 </trkpt>
@@ -2261,11 +2265,11 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
  <ele>102.000000</ele>
  <time>2020-06-07T15:31:42Z</time>
 </trkpt>
-<trkpt lat="36.527020" lon="139.880799">
+<trkpt lat="36.526935" lon="139.880678">
  <ele>104.000000</ele>
  <time>2020-06-07T15:31:52Z</time>
 </trkpt>
-<trkpt lat="36.527638" lon="139.880842">
+<trkpt lat="36.527837" lon="139.880968">
  <ele>104.000000</ele>
  <time>2020-06-07T15:32:02Z</time>
 </trkpt>
@@ -2469,7 +2473,7 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/
  <ele>177.000000</ele>
  <time>2021-01-11T03:27:48Z</time>
 </trkpt>
-<trkpt lat="36.634765" lon="139.850264">
+<trkpt lat="36.634790" lon="139.850037">
  <ele>179.000000</ele>
  <time>2021-01-11T03:27:58Z</time>
 </trkpt>
