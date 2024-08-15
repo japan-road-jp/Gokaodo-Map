@@ -1,5 +1,5 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# 五街道GPX・五街道KML・五街道SHP：　GISに表示可能な五街道の数値データ・データセット（2024.3.31修正）
+# 五街道GPX・五街道KML・五街道SHP：　GISに表示可能な五街道の数値データ・データセット（2024.8.15修正）
 
 ## 概　 要    
 地理情報システム（GIS：Geographic Information System）で表示や再利用ができる五街道（東海道，中山道，日光道中，奥州道中，甲州道中）の数値データは，2020年現在，インターネット上で検索する限りは見当たりません．  
@@ -70,6 +70,7 @@ https://note.com/smatsu/n/n4cf861420729
 japan.road.jp@gmail.com （国道愛好家　くにみち宛）
   
 ## 履歴
+2024.08.15　中山道修正  
 2024.03.31　日光街道・奥州街道修正  
 2022.05.07　東海道、甲州街道のデータ修正    
 2021.11.24　kmlの断片化修正   
